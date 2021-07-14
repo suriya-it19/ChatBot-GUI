@@ -1,0 +1,6 @@
+Open command prompt and run python
+then,
+ run import nltk
+then, 
+ run nltk.download()
+ to download nltk packages
